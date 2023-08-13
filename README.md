@@ -1,2 +1,2 @@
 # git_test
-This repo is created while odin project
+This repo is created for  odin project 
