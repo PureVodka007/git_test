@@ -1,2 +1,2 @@
 # git_test
-This repo is created for  odin project 
+This a test repo for learning Foundations Course on Odin Project.
